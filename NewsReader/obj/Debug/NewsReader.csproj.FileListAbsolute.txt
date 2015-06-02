@@ -1,0 +1,63 @@
+C:\PersonalProjects\NewsReader\NewsReader\bin\Debug\NewsReader.exe.config
+C:\PersonalProjects\NewsReader\NewsReader\bin\Debug\NewsReader.exe
+C:\PersonalProjects\NewsReader\NewsReader\bin\Debug\NewsReader.pdb
+C:\PersonalProjects\NewsReader\NewsReader\obj\Debug\NewsReader.csprojResolveAssemblyReference.cache
+C:\PersonalProjects\NewsReader\NewsReader\obj\Debug\MainWindow.baml
+C:\PersonalProjects\NewsReader\NewsReader\obj\Debug\MainWindow.g.cs
+C:\PersonalProjects\NewsReader\NewsReader\obj\Debug\App.g.cs
+C:\PersonalProjects\NewsReader\NewsReader\obj\Debug\NewsReader_MarkupCompile.cache
+C:\PersonalProjects\NewsReader\NewsReader\obj\Debug\NewsReader.g.resources
+C:\PersonalProjects\NewsReader\NewsReader\obj\Debug\NewsReader.Properties.Resources.resources
+C:\PersonalProjects\NewsReader\NewsReader\obj\Debug\NewsReader.csproj.GenerateResource.Cache
+C:\PersonalProjects\NewsReader\NewsReader\obj\Debug\NewsReader.exe
+C:\PersonalProjects\NewsReader\NewsReader\obj\Debug\NewsReader.pdb
+C:\PersonalProjects\NewsReader\NewsReader\obj\Debug\RSSFeed.baml
+C:\PersonalProjects\NewsReader\NewsReader\obj\Debug\RSSFeed.g.cs
+C:\PersonalProjects\NewsReader\NewsReader\bin\Debug\HtmlRenderer.dll
+C:\PersonalProjects\NewsReader\NewsReader\bin\Debug\HtmlRenderer.WPF.dll
+C:\PersonalProjects\NewsReader\NewsReader\bin\Debug\HtmlRenderer.pdb
+C:\PersonalProjects\NewsReader\NewsReader\bin\Debug\HtmlRenderer.WPF.pdb
+C:\PersonalProjects\NewsReader\NewsReader\obj\Debug\Options.baml
+C:\PersonalProjects\NewsReader\NewsReader\obj\Debug\Options.g.cs
+F:\Pobrane\Chrome\NewsReader\NewsReader\bin\Debug\NewsReader.exe.config
+F:\Pobrane\Chrome\NewsReader\NewsReader\bin\Debug\NewsReader.exe
+F:\Pobrane\Chrome\NewsReader\NewsReader\bin\Debug\NewsReader.pdb
+F:\Pobrane\Chrome\NewsReader\NewsReader\bin\Debug\HtmlRenderer.dll
+F:\Pobrane\Chrome\NewsReader\NewsReader\bin\Debug\HtmlRenderer.WPF.dll
+F:\Pobrane\Chrome\NewsReader\NewsReader\bin\Debug\HtmlRenderer.pdb
+F:\Pobrane\Chrome\NewsReader\NewsReader\bin\Debug\HtmlRenderer.WPF.pdb
+F:\Pobrane\Chrome\NewsReader\NewsReader\obj\Debug\MainWindow.baml
+F:\Pobrane\Chrome\NewsReader\NewsReader\obj\Debug\Options.baml
+F:\Pobrane\Chrome\NewsReader\NewsReader\obj\Debug\RSSFeed.baml
+F:\Pobrane\Chrome\NewsReader\NewsReader\obj\Debug\MainWindow.g.cs
+F:\Pobrane\Chrome\NewsReader\NewsReader\obj\Debug\Options.g.cs
+F:\Pobrane\Chrome\NewsReader\NewsReader\obj\Debug\RSSFeed.g.cs
+F:\Pobrane\Chrome\NewsReader\NewsReader\obj\Debug\App.g.cs
+F:\Pobrane\Chrome\NewsReader\NewsReader\obj\Debug\NewsReader_MarkupCompile.cache
+F:\Pobrane\Chrome\NewsReader\NewsReader\obj\Debug\NewsReader.g.resources
+F:\Pobrane\Chrome\NewsReader\NewsReader\obj\Debug\NewsReader.Properties.Resources.resources
+F:\Pobrane\Chrome\NewsReader\NewsReader\obj\Debug\NewsReader.csproj.GenerateResource.Cache
+F:\Pobrane\Chrome\NewsReader\NewsReader\obj\Debug\NewsReader.exe
+F:\Pobrane\Chrome\NewsReader\NewsReader\obj\Debug\NewsReader.pdb
+F:\Pobrane\Chrome\NewsReader\NewsReader\obj\Debug\NewsReader.csprojResolveAssemblyReference.cache
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\bin\Debug\NewsReader.exe.config
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\obj\Debug\NewsReader.exe
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\obj\Debug\NewsReader.pdb
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\bin\Debug\NewsReader.exe
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\bin\Debug\NewsReader.pdb
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\bin\Debug\HtmlRenderer.dll
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\bin\Debug\HtmlRenderer.WPF.dll
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\bin\Debug\HtmlRenderer.pdb
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\bin\Debug\HtmlRenderer.WPF.pdb
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\obj\Debug\NewsReader.csprojResolveAssemblyReference.cache
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\obj\Debug\MainWindow.baml
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\obj\Debug\Options.baml
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\obj\Debug\RSSFeed.baml
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\obj\Debug\MainWindow.g.cs
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\obj\Debug\Options.g.cs
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\obj\Debug\RSSFeed.g.cs
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\obj\Debug\App.g.cs
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\obj\Debug\NewsReader_MarkupCompile.cache
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\obj\Debug\NewsReader.g.resources
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\obj\Debug\NewsReader.Properties.Resources.resources
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReader\obj\Debug\NewsReader.csproj.GenerateResource.Cache

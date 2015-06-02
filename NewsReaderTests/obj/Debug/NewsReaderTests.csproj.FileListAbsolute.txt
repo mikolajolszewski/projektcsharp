@@ -1,0 +1,7 @@
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReaderTests\obj\Debug\NewsReaderTests.csprojResolveAssemblyReference.cache
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReaderTests\bin\Debug\NewsReaderTests.dll
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReaderTests\bin\Debug\NewsReaderTests.pdb
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReaderTests\bin\Debug\NewsReader.exe
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReaderTests\bin\Debug\NewsReader.pdb
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReaderTests\obj\Debug\NewsReaderTests.dll
+C:\Users\Mikolaj\Desktop\studia\DOT NET\Projekt\NewsReaderTests\obj\Debug\NewsReaderTests.pdb
